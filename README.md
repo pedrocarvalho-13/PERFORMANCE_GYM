@@ -1,4 +1,4 @@
-# Sistema de Gestão de Academias
+# Performance Gym
 
 ## Descrição
 O Sistema de Gestão de Academias é uma aplicação desenvolvida para simplificar e otimizar a administração de academias e centros de condicionamento físico. Este projeto visa proporcionar uma solução eficiente para gerenciar membros, funcionários, programas de treinamento e outras atividades relacionadas ao ambiente fitness.
